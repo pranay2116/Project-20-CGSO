@@ -1,1 +1,2 @@
-# Project-20-CGSO
+# p5.play-boilerplate
+Boiler plate for p5.play
